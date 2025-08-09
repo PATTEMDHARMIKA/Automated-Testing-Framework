@@ -1,5 +1,4 @@
 # Automated-Testing-Framework
-# Project Overview
 This project is an **Automated Testing Framework** developed during my internship at **Prasunet Technologies Pvt. Ltd.**.  
 It is designed to automate **functional** and **regression testing** for both **web applications** and **REST APIs**, reducing manual testing effort and improving accuracy, speed, and reliability.
 
